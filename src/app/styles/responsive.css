@@ -36,6 +36,7 @@
  .why-intro h2{max-width:630px}
  .why-bottom{display:grid;gap:14px}
  .project-grid{grid-template-columns:1fr 1fr;gap:16px}
+ .land-listings-grid{grid-template-columns:1fr 1fr}
  .leadership-preview-grid{grid-template-columns:1fr}
  .parallax-showcase{min-height:480px}
  .parallax-content,.contact-cta-content{width:calc(100% - 50px);padding-left:0}
@@ -94,7 +95,7 @@
  .intro-facts strong{font-size:13px}
  .intro-facts span{font-size:8px}
  .section-aside-note{margin-top:20px}
- .business-grid,.service-grid,.project-grid{grid-template-columns:1fr}
+ .business-grid,.service-grid,.project-grid,.land-listings-grid{grid-template-columns:1fr}
  .business-card{min-height:200px}
  .service-card-image{height:220px}
  .service-card-content h3{min-height:0}
